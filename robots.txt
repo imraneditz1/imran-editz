@@ -1,0 +1,21 @@
+# ==========================================
+# IMRAN EDITZ - ROBOTS.TXT
+# Official Website:
+# https://imran-editz.myvnc.com/
+# ==========================================
+
+# Allow all search engine crawlers
+User-agent: *
+
+# Allow access to the entire website
+Allow: /
+
+# Homepage
+Allow: /$
+
+# Sitemap location
+Sitemap: https://imran-editz.myvnc.com/sitemap.xml
+
+# ==========================================
+# END OF ROBOTS.TXT
+# ==========================================

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Imran Editz Homepage -->
+  <url>
+
+    <!-- Main Homepage URL -->
+    <loc>https://imran-editz.myvnc.com/</loc>
+
+    <!-- Last Modified Date -->
+    <lastmod>2026-11-16</lastmod>
+
+    <!-- Homepage Update Frequency -->
+    <changefreq>weekly</changefreq>
+
+    <!-- Homepage Priority -->
+    <priority>1.0</priority>
+
+  </url>
+
+</urlset>
